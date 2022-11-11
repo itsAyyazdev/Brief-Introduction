@@ -35,22 +35,27 @@
 
 
 
-- 🏫 I am a `Senior` Flutter developer
-- 🏆 `10+` countries served
-- 🧑‍💻 `25+` mobile apps delivered
-- 🏆 `SpeedCode` participant
-- 🧑‍💻 Love to fight with new problems
-- 🧑‍💻 Competitive programmer on `Fiverr` and `Upwork`
-- 🧑‍💻 Always `learning new things` 
+<ul>
+  <li>🏫 I am a <code class="language-plaintext highlighter-rouge">Senior</code> Flutter developer</li>
+  <li>🏆 <code class="language-plaintext highlighter-rouge">10+</code> countries served</li>
+  <li>🧑‍💻 <code class="language-plaintext highlighter-rouge">25+</code> mobile apps delivered</li>
+  <li>🏆 <code class="language-plaintext highlighter-rouge">SpeedCode</code> participant</li>
+  <li>🧑‍💻 Love to fight with new problems</li>
+  <li>🧑‍💻 Competitive programmer on <code class="language-plaintext highlighter-rouge">Fiverr</code> and <code class="language-plaintext highlighter-rouge">Upwork</code></li>
+  <li>
+    <p>🧑‍💻 Always <code class="language-plaintext highlighter-rouge">learning new things</code></p>
 
-  &emsp; 
-  <a href="https://www.upwork.com/freelancers/~018c3728a3a98aa458" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Ayyaz%20Shair%20Muhammad-%2314A800.svg?style=plastic&logo=upwork&logoColor=white">
-  </a> 
-    &emsp; 
-  <a href="https://www.fiverr.com/talhasardar09" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Talha-%231CB96F.svg?style=plastic&logo=fiverr&logoColor=white">
-  </a> 
+    <p>  
+<a href="https://www.upwork.com/freelancers/~018c3728a3a98aa458" target="_blank"> 
+  <img alt="C" src="https://img.shields.io/badge/Ayyaz%20Shair%20Muhammad-%2314A800.svg?style=plastic&amp;logo=upwork&amp;logoColor=white">
+</a> 
+    
+<a href="https://www.fiverr.com/talhasardar09" target="_blank"> 
+  <img alt="C" src="https://img.shields.io/badge/Talha-%231CB96F.svg?style=plastic&amp;logo=fiverr&amp;logoColor=white">
+</a> 
+<br>
+  </li>
+</ul>
 <br>
 
 <div align="center">
