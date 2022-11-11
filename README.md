@@ -17,13 +17,7 @@
   border-radius: 50%;
 }
 </style>
-</head>
-<body>
-
-<h2>Avatar Images</h2>
-
 <img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
-
 </div>
 
 - 🏫 I am a `Senior` Flutter developer
