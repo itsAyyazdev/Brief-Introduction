@@ -1,23 +1,24 @@
 
 <h1 align="center">Hi , I'm Ayyaz Shair Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div>
-<p align="center">
+<div style="margin-top:10px" align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+developer;Code+Ethusiast;DB+Engineer;Push+Notifications;Firebase+Expert;Android+developer;iOS+Developer&center=true&width=500&height=50"></a>
 </p>
 
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
-</p>
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" > 
+
 <style>
 .avatar {
-  vertical-align: middle;
+  horizontal-align: right;
   width: 124px;
   height: 124px;
   border-radius: 50%;
 }
 </style>
 <img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
+	</p>
 </div>
 
 - 🏫 I am a `Senior` Flutter developer
@@ -55,24 +56,24 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://dev.to/itsayyazdev" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
     </a>
     <a href="https://medium.com/@itsayyaz" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
     <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
     </a>
   </div>
   <div>
     <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="codecheff"/>
     </a>
     <a href="https://www.hackerrank.com/ayyazkhan00" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank"/>
     </a>
     <a href="https://leetcode.com/itsayyazdev/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
     </a>
   </div>
 </div>
