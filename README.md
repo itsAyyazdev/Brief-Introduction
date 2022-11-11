@@ -23,7 +23,7 @@
 
 <h2>Avatar Images</h2>
 
-<img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="Avatar" class="avatar">
+<img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
 
 
 - 🏫 I am a `Senior` Flutter developer
