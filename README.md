@@ -25,7 +25,7 @@
   border-radius: 50%;
 }
 .user-holder {
-    padding:0 0 0 15px;
+    padding:0 50px 0 64px;
     display:flex;
     align-items:center;
     justify-content:space-between;
@@ -125,15 +125,16 @@
 <br>
 
 
-
+<div align='left'>
 ## Stackoverflow
+<br>
 <a href="https://stackexchange.com/users/13991613"><img src="https://stackexchange.com/users/flair/13991613.png" width="208" height="60" alt="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ayyaz-shair-muhammad-58181713b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/ayyaz-shair-muhammad-58181713b?trk=profile-badge">Ayyaz Shair Muhammad</a></div>
               
-
+</div>
               
 
-## 🛠️ My Skills
+## 🛠️ My Skills<br>
 
 ## 👉 Programming languages
 
@@ -266,9 +267,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsAyyazdev&layout=compact&theme=algolia" alt="Ayyaz" /></a> </p>
 
-## 👉 My hobby
-<img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+## 👉 My hobby<br>
+<img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /><br>
 
 -----
-Credits: [Ayyaz Shair Muhammad](https://github.com/itsAyyazdev)
+<br>
+Credits:<a href="https://github.com/itsAyyazdev"> Ayyaz Shair Muhammad</a>
 
