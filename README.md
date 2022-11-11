@@ -8,9 +8,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
-	
 </p>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .avatar {
   vertical-align: middle;
@@ -27,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
 
 </div>
+
 - 🏫 I am a `Senior` Flutter developer
 - 🏆 `10+` countries served
 - 🧑‍💻 `25+` mobile apps delivered
