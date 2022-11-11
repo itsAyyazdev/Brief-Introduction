@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ayyazmeo82&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
+	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Ayyaz" target="_blank"/> 
 	
 </p>
@@ -230,7 +230,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ayyazmeo82"><img alt="Ayyaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayyazmeo82&custom_title=Ayyaz's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itsAyyazdev"><img alt="Ayyaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsAyyazdev&custom_title=Ayyaz's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -238,11 +238,11 @@
 
 ## 🏆 Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyazmeo82&layout=compact&theme=algolia" alt="Ayyaz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsAyyazdev&layout=compact&theme=algolia" alt="Ayyaz" /></a> </p>
 
 ## 👉 My hobby
 <img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 -----
-Credits: [Ayyaz Shair Muhammad](https://github.com/ayyazmeo82)
+Credits: [Ayyaz Shair Muhammad](https://github.com/itsAyyazdev)
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
