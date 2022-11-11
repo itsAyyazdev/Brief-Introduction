@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi , I'm Ayyaz Shair Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div style="margin-top:10px" align="center">
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+developer;Code+Ethusiast;DB+Engineer;Push+Notifications;Firebase+Expert;Android+developer;iOS+Developer&center=true&width=500&height=50"></a>
@@ -46,7 +47,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAyyazdev&amp;theme=material-palenight" alt=""></p>
 </div>
 
-<br>
 <br>
 
 ---
@@ -253,4 +253,4 @@
 
 -----
 Credits: [Ayyaz Shair Muhammad](https://github.com/itsAyyazdev)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
