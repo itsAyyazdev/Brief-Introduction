@@ -1,14 +1,21 @@
 
 <h1 align="center">Hi , I'm Ayyaz Shair Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div style="margin-top:10px" align="center">
-<p align="left">
+
+
+	
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+developer;Code+Ethusiast;DB+Engineer;Push+Notifications;Firebase+Expert;Android+developer;iOS+Developer&center=true&width=500&height=50"></a>
+  
+<div class="user-holder">
+    <p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
 </p>
+<p align="right"><img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
+</p>
+</div>
 
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=itsAyyazdev&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" > 
 
 <style>
 .avatar {
@@ -17,10 +24,16 @@
   height: 124px;
   border-radius: 50%;
 }
+.user-holder {
+    padding:0 0 0 15px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
 </style>
-<img src="https://raw.githubusercontent.com/itsAyyazdev/Brief-Introduction/main/img.png" alt="" class="avatar">
-	</p>
-</div>
+
+
 
 - 🏫 I am a `Senior` Flutter developer
 - 🏆 `10+` countries served
