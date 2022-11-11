@@ -34,7 +34,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=itsAyyazdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)]
+<p>[<img src="https://github-readme-stats.vercel.app/api?username=itsAyyazdev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="">] </p>
 <p>[<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAyyazdev&amp;theme=material-palenight" alt="">]</p>
 </div>
 
